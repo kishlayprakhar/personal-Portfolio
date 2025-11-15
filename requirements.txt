@@ -1,0 +1,7 @@
+Technologies Used
+This project is built purely with foundational web technologies, making it lightweight and fast.
+HTML5: For the semantic structure and content of the website.
+CSS3: For all styling, responsiveness (using Flexbox and Grid), and animations.
+CSS Variables: Used extensively for easy theme management (colors, shadows, gradients).
+Font Awesome: For all icons (social media, project links, skill categories).
+Google Fonts: For the 'popins' typeface.
